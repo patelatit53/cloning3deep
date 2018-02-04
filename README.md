@@ -1,0 +1,2 @@
+# cloning3deep
+Whenever we need own copy not to use default implementation we call it as deep copy, whenever we need deep copy of the object we need to implement according to our need. So for deep copy we need to ensure all the member class also implement the Cloneable interface and override the clone() method of the object class. A deep copy means actually creating a new array and copying over the values.
